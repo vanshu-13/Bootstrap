@@ -1,0 +1,26 @@
+.header {
+    height: 90vh;
+    width: 100;
+    color: black;
+    background: url("https://images.pexels.com/photos/196659/pexels-photo-196659.jpeg?auto=compress&cs=tinysrgb&w");
+background-size: cover;
+}
+.h-100 {
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25rem !important;
+}
+.message{
+    background: linear-gradient(to top, #65c193 0%, #ee9dee 100%);
+}
+#Whatido{
+    text-align: center;
+    padding-top: 7%;
+}
+.feature-web{
+    margin-left: auto;
+    margin-right: auto;
+}
